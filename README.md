@@ -26,9 +26,8 @@ Esta es una aplicación web simple que permite a los usuarios ingresar nombres d
 
 ![versión-movil](assets/versión-movil.png)
 
-<p>:globe_with_meridians: Deploy:</p><a "https://amigo-secreto-ten-ochre.vercel.app/">¡Click Aqui!</a>
-<es>
+<p>🌐 Deploy:</p>
+<a href="https://127.0.0.1:5500/index.html">¡Click Aquí!</a>
 
-http://127.0.0.1:5500/index.html
 Para ejecutar el sistema, debes poner: 
 ```npm install react```
