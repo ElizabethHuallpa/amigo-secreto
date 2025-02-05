@@ -1,6 +1,6 @@
 <h1> Proyecto Amigo-Secreto</h1>
 
-# Contexto
+## Contexto
 Esta es una aplicación web simple que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 ## Funcionalidades
