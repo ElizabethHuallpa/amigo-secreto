@@ -23,4 +23,4 @@ Esta es una aplicación web simple que permite a los usuarios ingresar nombres d
 ![versión-computador](assets/versión-computador.png)
 
 <p>🌐 Deploy:</p>
-<a href="https://127.0.0.1:5500/index.html">¡Click Aquí!</a>
+http://127.0.0.1:5500/index.html
