@@ -26,7 +26,7 @@ Esta es una aplicación web simple que permite a los usuarios ingresar nombres d
 
 ![versión-movil](assets/versión-movil.png)
 
-<p>:globe_with_meridians: Deploy:</p><a href="https://amigo-secreto-ten-ochre.vercel.app/">Click Aqui!</a>
+<p>:globe_with_meridians: Deploy:</p><a "https://amigo-secreto-ten-ochre.vercel.app/">¡Click Aqui!</a>
 <es>
 
 http://127.0.0.1:5500/index.html
