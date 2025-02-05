@@ -22,12 +22,5 @@ Esta es una aplicación web simple que permite a los usuarios ingresar nombres d
 
 ![versión-computador](assets/versión-computador.png)
 
-*Versión Movil
-
-![versión-movil](assets/versión-movil.png)
-
 <p>🌐 Deploy:</p>
 <a href="https://127.0.0.1:5500/index.html">¡Click Aquí!</a>
-
-Para ejecutar el sistema, debes poner: 
-```npm install react```
