@@ -18,8 +18,10 @@ Esta es una aplicación web simple que permite a los usuarios ingresar nombres d
 4. Una vez que hayas agregado todos los nombres, haz clic en "Sortear Amigo" para seleccionar un amigo secreto al azar.
 
 ## Apariencia
-
-
+*Versión Computador
+![versión-computador](assets/versión-computador.png)
+*Versión Movil
+![versión-movil](assets/versión-movil.png)
 
 Para ejecutar el sistema, debes poner: 
 ```npm install react```
