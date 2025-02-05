@@ -1,4 +1,4 @@
-<h1> Proyecto Amigo-Secreto</h1>
+<h1> Proyecto Amigo Secreto</h1>
 
 ## Contexto
 Esta es una aplicación web simple que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
@@ -18,7 +18,6 @@ Esta es una aplicación web simple que permite a los usuarios ingresar nombres d
 4. Una vez que hayas agregado todos los nombres, haz clic en "Sortear Amigo" para seleccionar un amigo secreto al azar.
 
 ## Apariencia
-*Versión Computador
 
 ![versión-computador](assets/versión-computador.png)
 
